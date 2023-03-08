@@ -10,7 +10,7 @@ What do you think about my page?
 - I like it!
 
 <ol>
-  <li> do it again!</li>
+  <li> do it again!</li> <sub> <span style="color:red;" don't choose this option!</span <sub>
 
 <sub> P.S. I built my page by using this link </sub> [GitHub Pages](https://github.com)
 
