@@ -10,9 +10,9 @@ What do you think about my page?
 - I like it!
 
 <ol>
-  <li> </li>
-  <li> </li>
-  <li> do it again!</li>  🤬
+  <li>~~ choose option above~~ </li>
+  <li>***choose option above*** </li>
+  <li> do it again!</li>  😿
   
   
   
