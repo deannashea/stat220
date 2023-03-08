@@ -10,7 +10,7 @@ What do you think about my page?
 - I like it!
 
 <ol>
-  <li> do it again!</li> <sub> ***don't choose this option!***<sub>
+  <li> do it again!</li>  ***this is just to show that I can use ordered type of bullet point***
   
   
 
