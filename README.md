@@ -8,7 +8,7 @@ My name is **Déanna** 😊 and this is my lovely cat ***Nala*** :smiley_cat: Yo
 What do you think about my page?
 * it needs improvement!
 - I like it!
-*ul do it again!
+do it again!
 
 <sub> P.S. I built my page by using this link </sub> [GitHub Pages](https://github.com)
 
