@@ -8,10 +8,9 @@ My name is **Déanna** 😊 and this is my lovely cat ***Nala*** :smiley_cat: Yo
 What do you think about my page?
 <ol>
   <li>it needs improvement!</li> 😞
-  <li>I like it</li> 😸
 
  * do it again!</li>  😿
-  
+  <li>I like it</li> 😸
   
   
 
