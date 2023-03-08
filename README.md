@@ -6,13 +6,11 @@ My name is **Déanna** 😊 and this is my lovely cat ***Nala*** :smiley_cat: Yo
 ![Nala 4](https://user-images.githubusercontent.com/126633684/222025927-a74dd452-490b-488d-80cf-02ba7c0ec7d6.jpg)
 
 What do you think about my page?
-* it needs improvement!
-- I like it!
-
 <ol>
-  <li>~~ choose option above~~ </li>
-  <li>***choose option above*** </li>
-  <li> do it again!</li>  😿
+  <li>it needs improvement!</li> 😞
+  <li>I like it</li> 😸
+
+ * do it again!</li>  😿
   
   
   
